@@ -1,9 +1,7 @@
 # about
 
 
-20+ year startup engineering. I've managed eng teams and still get my hands dirty.
-
-My first programming language was Logo. Today fluent in Rust, Typescript, and Python.
+Twenty-plus years in startup engineering. I've managed eng teams and still get my hands dirty.
 
 I've been building something for every tech cycle.
 
@@ -17,6 +15,8 @@ I've been building something for every tech cycle.
 9. Blockchain protocol engineering - Ethereum, CosmoSDK (2016)
 10. Layer1 protocol engineering platforms - Move, Diem/Libra (2019-2025)
 11. Gen AI inference tools (now)
+
+My first programming language was Logo. Today fluent in Rust, Typescript, and Python.
 
 ## Recent Hands-on Work
 
