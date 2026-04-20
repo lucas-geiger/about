@@ -1,10 +1,14 @@
-# Founder | Systems Engineer | 20+ Years Building Early Systems (Now: GenAI)
+# LinkedIn Profile
+
+## Headline
+
+Founder | Systems Engineer | 20+ Years Building Systems at the Edge (Now: GenAI)
 
 ---
 
 ## About
 
-I’ve spent 20+ years building systems at the edge of new technology cycles.
+I build systems at the edge of new technology cycles. I’ve been doing it for over 20 years.
 
 My background spans both engineering and finance. I started programming early (Logo was my first language), spent a brief period in finance after college, and have been building startups continuously since.
 
@@ -17,16 +21,16 @@ That has included:
 - app ecosystem intelligence  
 - serverless / FaaS infrastructure  
 - blockchain protocols and Layer 1 systems  
-- and now: GenAI systems and agent architectures, returning to building custom software with AI-native primitives  
+- and now GenAI systems and agent architectures  
 
 I’ve led teams, but I’ve always remained hands-on—focused on system design, performance, and implementation.
 
-Today, I focus on:
+Current focus:
 - high-performance inference (Rust, CUDA, safetensors)  
 - distributed inference routing and caching  
 - agent systems modeled as explicit state machines  
 - GPU kernel benchmarking across runtimes  
-- agent-native software architectures (see Alien Stack)  
+- agent-native software architectures (Alien Stack)  
 
 Earlier work includes cryptographic systems (VDFs, sparse Merkle trees), distributed infrastructure, and enterprise software.
 
@@ -39,41 +43,43 @@ I’m most effective in zero-to-one environments where problems are not fully de
 ### Founder / Systems Engineer — Superfield  
 2026 – Present  
 
-GenAI software systems for self-improving internal tools.
+Building agent-native GenAI systems for software generation and evolution.
 
-- Building agent-native systems for software generation and evolution  
-- Developing inference infrastructure (Rust, CUDA, safetensors) and distributed routing  
-- Designing agent orchestration using explicit state machine models  
-- Exploring software architectures optimized for machine authors  
+Focused on enabling software to be authored, modified, and maintained by machines rather than humans.
+
+- Building agent-native systems for code generation and iterative system evolution  
+- Developing high-performance inference infrastructure (Rust, CUDA, safetensors) and distributed routing  
+- Designing agent orchestration using explicit state-machine models  
+- Exploring software architectures optimized for machine authors (Alien Stack)  
 
 ---
 
 ### Founder / Systems Engineer — Infinite Game  
-2020 – 2025  
+2019 – 2025
 
 Blockchain protocol research and systems engineering across early-stage Layer 1 ecosystems.
 
-- Worked across OpenLibra, Atomica, Bittensor, and Ethereum ecosystems  
-- Built core infrastructure: validators, explorers, wallets, telemetry systems  
+- Built infrastructure across OpenLibra, Atomica, Bittensor, and Ethereum ecosystems  
+- Built core systems: validators, explorers, wallets, telemetry systems  
 - Designed cryptographic systems including verifiable delay function chaining  
 - Implemented sparse Merkle tree databases and graph-based fraud detection  
 - Developed large-scale automated test frameworks  
 
 ---
 
-### Co-Founder / Systems Engineer — Wireline  
-2017 – 2020  
+### Co-Founder / Systems Engineer — Wireline
+2017 – 2019
 
-Private distributed systems in regulated environments.
+Private distributed systems for secure collaboration
 
-- Designed and built systems for private data exchange  
-- Developed secure computation and data-sharing primitives  
-- Worked at the intersection of distributed systems and regulatory constraints  
+- Built systems for private data exchange and collaboration
+- Developed secure computation and data-sharing primitives
+- Architected economic models for early blockchain systems under evolving regulatory conditions
 
 ---
 
-### Systems Engineer — Keyscores  
-2013 – 2019  
+### Founder / Systems Engineer — Keyscores  
+2013 – 2018  
 
 Business control platform; later pivoted to app ecosystem analytics.
 
@@ -84,7 +90,7 @@ Business control platform; later pivoted to app ecosystem analytics.
 
 ---
 
-### Founder & Systems Engineer — Early Ventures  
+### Founder / Systems Engineer — Early Ventures  
 2000 – 2013  
 
 Built and operated systems across early web, enterprise software, and data platforms, including:
@@ -129,9 +135,9 @@ Focus: full-stack system design, early-stage product development, and engineerin
 
 ## Summary
 
-Founder and systems engineer with 20+ years building early-stage infrastructure across multiple technology waves: web, SaaS, analytics, blockchain, and GenAI.
+Founder and systems engineer with 20+ years building early-stage systems across multiple technology waves: web, SaaS, analytics, blockchain, and GenAI.
 
-Background spans both finance (valuation, M&A, venture) and engineering, with a focus on distributed systems, high-performance computing, and zero-to-one environments. Combines hands-on engineering with applied research in cryptography, verification, and AI inference systems.
+Background spans both finance (valuation, M&A, venture) and engineering, with a focus on distributed systems, high-performance computing, and zero-to-one environments.
 
 ---
 
@@ -186,43 +192,17 @@ GPU kernel benchmarking (TensorRT, Inductor, tinygrad, burn.rs), profiling, syst
 2013 – 2019  
 
 - Built analytics systems and large-scale data pipelines  
-- Contributed to pivot and exit  
+- Contributed to product pivot and exit  
 
 ---
 
-### Systems Engineer — Custom ERP Systems  
-2008 – 2013  
+### Founder & Systems Engineer — Early Ventures  
+2000 – 2013  
 
-- Built enterprise systems across finance, HR, and operations  
-- Translated business requirements into production software  
-
----
-
-### Partner — Early-Stage Venture Fund  
-2006 – 2008  
-
-- Evaluated early-stage companies and worked with founders  
-
----
-
-### Founder — Print-on-Demand Platform  
-2005 – 2006  
-
-- Built early print-on-demand systems  
-
----
-
-### Financial Analyst  
-2004 – 2005  
-
-- Worked on valuation and M&A transactions  
-
----
-
-### Web Developer  
-2000 – 2003  
-
-- Built early interactive web systems  
+- Built systems across early web, enterprise software, and data platforms  
+- Developed interactive web and real-time systems  
+- Built ERP, finance, and internal tooling systems  
+- Worked on early analytics and data infrastructure  
 
 ---
 
@@ -253,23 +233,3 @@ GPU kernel benchmarking (TensorRT, Inductor, tinygrad, burn.rs), profiling, syst
 - Began programming with Logo  
 - Hands-on across systems, infrastructure, and product layers  
 - Focused on zero-to-one system design and implementation  
-## Recent Hands-on Work
-
-
-### [Gen AI Tools](https://github.com/lucky-tensor)
-- [Rust inference primitives: llama, gpt, loaders plus accelerated inference in safetensors and CUDA](https://github.com/lucky-tensor/inferno/tree/main/crates/inference/src)
-- [Cloud inference: high availability cache-aware inference routing (vllm architecture)](https://github.com/lucky-tensor/inferno)
-- [Agents: state machine for agent management](https://github.com/lucky-tensor/agent-turnstile)
-- [Code gen: browser automation generative scripts through chrome developer tool](https://github.com/lucky-tensor/robert)
-- [Benchmarking kernels: tooling for benchmarking GPU kernel fusion using: libtorch inductor, tensorRT, tinygrad, burn.rs, etc.](https://github.com/lucky-tensor/benchmark-inference-frameworks)
-
-
-### [Blockchain System Engineering](https://github.com/0o-de-lally/)
-
-- [Low level systems engineering: cross-platform binaries, servers, daemons](https://github.com/0LNetworkCommunity/libra-framework)
-- [Cryptography: verifiable delay function chaining](https://github.com/0LNetworkCommunity/verifiable_delay)
-- [Database: sparse merkle tree database, open cypher graph database for fraud detection](https://github.com/0LNetworkCommunity/forensic-db)
-- [Desktop: Rust-based crypto wallet and password management, trusted execution environment and storage](https://github.com/0o-de-lally/carpe)
-- [Mobile: React Native framework for secure storage of passwords, and blockchain transaction signing](https://github.com/0o-de-lally/wallet-base)
-- [Web servers: Real time server diagnostics/telemetry, stateless blockchain explorers](https://github.com/0o-de-lally/ol-explorer)
-- [Test tooling: large scale swarm container test infrastructure, on-device e2e mobile tests](https://github.com/0o-de-lally/libra-framework/tree/main/smoke-tests)
