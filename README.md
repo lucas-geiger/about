@@ -1,5 +1,3 @@
-# LinkedIn Profile
-
 ## Headline
 
 Founder | Systems Engineer | 20+ Years Building Systems at the Edge (Now: GenAI)
@@ -21,7 +19,7 @@ That has included:
 - app ecosystem intelligence  
 - serverless / FaaS infrastructure  
 - blockchain protocols and Layer 1 systems  
-- and now GenAI systems and agent architectures  
+- and now: GenAI systems and agent architectures, applying AI-native primitives to business systems I’ve built and operated for years  
 
 I’ve led teams, but I’ve always remained hands-on—focused on system design, performance, and implementation.
 
@@ -45,36 +43,36 @@ I’m most effective in zero-to-one environments where problems are not fully de
 
 Building agent-native GenAI systems for software generation and evolution.
 
-Focused on enabling software to be authored, modified, and maintained by machines rather than humans.
+Focused on enabling business systems to be authored, modified, and maintained by machines rather than humans.
 
 - Building agent-native systems for code generation and iterative system evolution  
 - Developing high-performance inference infrastructure (Rust, CUDA, safetensors) and distributed routing  
 - Designing agent orchestration using explicit state-machine models  
-- Exploring software architectures optimized for machine authors (Alien Stack)  
+- Extending prior work in business systems and ERP into AI-native architectures (Alien Stack)  
 
 ---
 
 ### Founder / Systems Engineer — Infinite Game  
-2019 – 2025
+2019 – 2025  
 
 Blockchain protocol research and systems engineering across early-stage Layer 1 ecosystems.
 
 - Built infrastructure across OpenLibra, Atomica, Bittensor, and Ethereum ecosystems  
-- Built core systems: validators, explorers, wallets, telemetry systems  
+- Developed core systems: validators, explorers, wallets, telemetry systems  
 - Designed cryptographic systems including verifiable delay function chaining  
 - Implemented sparse Merkle tree databases and graph-based fraud detection  
 - Developed large-scale automated test frameworks  
 
 ---
 
-### Co-Founder / Systems Engineer — Wireline
-2017 – 2019
+### Co-Founder / Systems Engineer — Wireline  
+2017 – 2019  
 
-Private distributed systems for secure collaboration
+Private distributed systems for secure collaboration.
 
-- Built systems for private data exchange and collaboration
-- Developed secure computation and data-sharing primitives
-- Architected economic models for early blockchain systems under evolving regulatory conditions
+- Built systems for private data exchange and collaboration  
+- Developed secure computation and data-sharing primitives  
+- Architected economic models for early blockchain systems under evolving regulatory conditions  
 
 ---
 
@@ -188,8 +186,8 @@ GPU kernel benchmarking (TensorRT, Inductor, tinygrad, burn.rs), profiling, syst
 
 ---
 
-### Systems Engineer — Keyscores  
-2013 – 2019  
+### Founder / Systems Engineer — Keyscores  
+2013 – 2018  
 
 - Built analytics systems and large-scale data pipelines  
 - Contributed to product pivot and exit  
