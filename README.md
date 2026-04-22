@@ -39,7 +39,7 @@ I’m most effective in zero-to-one environments where problems are not fully de
 ## Experience
 
 ### Founder / Systems Engineer — Superfield  
-2026 – Present  
+2025 – Present  
 
 Building agent-native GenAI systems for software generation and evolution.
 
