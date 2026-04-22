@@ -228,6 +228,6 @@ GPU kernel benchmarking (TensorRT, Inductor, tinygrad, burn.rs), profiling, syst
 
 ## Additional Information
 
-- Began programming with Logo  
+- Began programming with Logo ;)
 - Hands-on across systems, infrastructure, and product layers  
 - Focused on zero-to-one system design and implementation  
