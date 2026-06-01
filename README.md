@@ -122,21 +122,6 @@ Focus: full-stack system design, early-stage product development, and engineerin
 
 ---
 
-## Skills
-
-- Distributed Systems  
-- Systems Engineering  
-- Artificial Intelligence (AI)  
-- Machine Learning Infrastructure  
-- Rust Programming  
-- Blockchain  
-- Cryptography  
-- High-Performance Computing  
-- GPU / CUDA  
-- Backend Development  
-
----
-
 # Resume
 
 ## Summary
@@ -163,52 +148,6 @@ Layer 1 systems, Move ecosystem, sparse Merkle trees, verifiable delay functions
 
 **Performance & Tooling**  
 GPU kernel benchmarking (TensorRT, Inductor, tinygrad, burn.rs), profiling, systems optimization  
-
----
-
-## Experience
-
-### Founder / Systems Engineer — Superfield  
-2026 – Present  
-
-- Building agent-native GenAI systems for software generation and evolution  
-- Developing inference infrastructure and distributed routing systems  
-- Designing agent orchestration using explicit state-machine models  
-
----
-
-### Founder / Systems Engineer — Infinite Game  
-2020 – 2025  
-
-- Built infrastructure across multiple Layer 1 ecosystems  
-- Designed cryptographic systems and verifiable data structures  
-- Developed large-scale distributed testing and telemetry systems  
-
----
-
-### Co-Founder / Systems Engineer — Wireline  
-2017 – 2020  
-
-- Built distributed systems for private data exchange  
-- Developed secure computation and data-sharing primitives  
-
----
-
-### Founder / Systems Engineer — Keyscores  
-2013 – 2018  
-
-- Built analytics systems and large-scale data pipelines  
-- Contributed to product pivot and exit  
-
----
-
-### Founder & Systems Engineer — Early Ventures  
-2000 – 2013  
-
-- Built systems across early web, enterprise software, and data platforms  
-- Developed interactive web and real-time systems  
-- Built ERP, finance, and internal tooling systems  
-- Worked on early analytics and data infrastructure  
 
 ---
 
