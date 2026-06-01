@@ -45,6 +45,14 @@ Building agent-native GenAI systems for software generation and evolution.
 
 Focused on enabling business systems to be authored, modified, and maintained by machines rather than humans.
 
+**Selected research (2025–2026):**
+
+- **Superfield ADE** — Built the Agent Development Environment: a Rust-first method, toolset, and reference implementation for "supergreenfield" applications authored end-to-end by agents — fused single-AI-over-owned-data, correct-by-construction (no mocks/ORMs), and self-improving via a live telemetry hardening loop.  
+- **Wham** — Built a GPU-rendered forms/UI library in Rust + WebAssembly (WebGL2, zero DOM form elements) to author end-user applications in Rust instead of TypeScript — the only framework to combine GPU-canvas rendering, screen-reader accessibility (DOM/ARIA mirror), and mobile text input (IME / virtual keyboard) in one stack.  
+- **Facet + Nexum** — Built a vendor-neutral "Context OS" memory layer (Facet) that unbundles memory from the model via a three-party firewalled architecture (on-device keys, zero-knowledge cloud sync, anonymized context to providers), powered underneath by Nexum — a block-level document-intelligence engine that parses any corpus (PDF/DOCX/Markdown) into a typed cross-link graph with vector / graph / hybrid query (Postgres + Apache AGE + pgvector, fully local embeddings, no external APIs).  
+- **Sharp** — Built a database-native, semantically-aware version-control system for agent-authored code: Postgres-resident repository state, Tree-sitter AST / symbol augmentation, agent runs recorded as first-class "episodes," and a three-tier semantic-merge contract that never silently resolves a semantic conflict or emits a non-compiling merge — Git-compatible, for TypeScript and Rust.  
+- **FastEnv** — Built an OCI-native workspace-forking runtime giving each agent strong isolation with cheap parallel fan-out: a Firecracker microVM per project plus crun containers per agent task, governed by host-side eBPF monitoring (built for Claude Code, Codex, and similar coding agents).  
+
 - Building agent-native systems for code generation and iterative system evolution  
 - Developing high-performance inference infrastructure (Rust, CUDA, safetensors) and distributed routing  
 - Designing agent orchestration using explicit state-machine models  
