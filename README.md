@@ -1,4 +1,4 @@
-## Headline
+## Lucas Geiger - CV
 
 Founder | Systems Engineer | 20+ Years Building Systems at the Edge (Now: GenAI)
 
@@ -113,7 +113,7 @@ Focus: full-stack system design, early-stage product development, and engineerin
 
 ## Featured
 
-### Alien Stack — Agent-Native Software Architecture
+### [Alien Stack](https://github.com/superfield-ai/alien-stack) — Agent-Native Software Architecture
 
 - Explores software systems where agents are primary developers  
 - Uses LLVM IR as canonical representation with machine-verifiable contracts  
@@ -153,7 +153,7 @@ GPU kernel benchmarking (TensorRT, Inductor, tinygrad, burn.rs), profiling, syst
 
 ## Research & Publications
 
-### Alien Stack — Agent-Native Software Architecture (2026)
+### [Alien Stack](https://github.com/superfield-ai/alien-stack) — Agent-Native Software Architecture (2026)
 
 - Proposed software architecture optimized for machine authors  
 - Introduced proof-carrying functions and explicit effect systems  
